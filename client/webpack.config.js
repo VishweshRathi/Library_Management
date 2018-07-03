@@ -30,5 +30,4 @@ var config = {
             net: 'empty'
     }
 };
-
 module.exports = config;
